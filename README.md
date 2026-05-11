@@ -1,1 +1,3 @@
-# achievement-test
+# Achievement Test
+
+Testing GitHub achievements.
